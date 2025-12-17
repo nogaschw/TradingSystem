@@ -3,20 +3,6 @@
 Hello! welcome to Sadna Express, our trading system program.
 we are third year students in software engineering in Ben Gurion University, we wrote this project for "Sadna" course.
 
-# Team members:
-
-Gil khais - 207919374
-
-Noga Schawartz - 207687849
-
-Shay kresner - 209120278
-
-Radwan Ganen - 322509951
-
-Tal Galmor - 318416575
-
-Dina Agapov - 207181629
-
 # Running the project:
 To run the project, we will perform the following steps -
 
